@@ -1,6 +1,0 @@
-{
-  "stonehenge_unittest_basic.py::StonehengeUnitTests::test_is_over_true": true,
-  "stonehenge_unittest_basic.py::StonehengeUnitTests::test_stonehenge_get_possible_moves": true,
-  "stonehenge_unittest_basic.py::StonehengeUnitTests::test_stonehenge_repr_same_players_same_value": true,
-  "stonehenge_unittest_basic.py::StonehengeUnitTests::test_stonehenge_rough_outcome_other_player_winning_moves": true
-}
